@@ -1,15 +1,15 @@
-#**Quoridor**
-___
+<h1>Quoridor</h1>
+
 This version of Quoridor is the first game I built using Python and pygame. The backend code was initially a final
 project from my introductory CS classes. After the classes have ended, I have added the UI using pygame. Features are still
 being added to this game. 
 
-##Required
-___
+<h2>Required</h2>
+
 Python 3, pygame
 
-##Rules
-___
+<h2>Rules</h2>
+
 **What is the objective of Quoridor?** The first player to reach any square on the opponent's baseline wins the game.
 
 **What is a turn?**
