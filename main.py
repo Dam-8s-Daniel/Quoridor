@@ -1,3 +1,7 @@
+#Author: Daniel Dam
+#Last Updated: 9/18/21
+#Description: This file executes Quoridor with an UI using pygame.
+
 import Quoridor as q
 import pygame, sys
 from pygame.locals import *
